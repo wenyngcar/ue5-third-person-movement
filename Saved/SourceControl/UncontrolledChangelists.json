@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/Erika_Archer.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/EyeSpec_MAT.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/FemaleFitA_Body_diffuse.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/FemaleFitA_StdNM.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/Akai_MAT.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/Erika_Archer_Clothes_diffuse.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/Erika_Archer_Clothes_normal.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/eyelash_MAT.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/FemaleFitA_eyelash_diffuse.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/Body_MAT.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/FemaleFitA_Body_diffuse_ncl1_1.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/Erika_Archer_PhysicsAsset.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/SKeletalMesh/Erika_Archer_Skeleton.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Falling_Idle.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Falling_To_Landing.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Jump.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Running.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Standing_Idle.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Two_Cycle_Sprint.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Walking.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/ErikaAnimBlueprint.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Locomotion.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
+			]
+		}
+	]
+}
