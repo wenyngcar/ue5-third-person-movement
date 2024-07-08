@@ -41,7 +41,23 @@
 				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/ErikaAnimBlueprint.uasset",
 				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Locomotion.uasset",
-				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Locomotion/Falling_Idle.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Locomotion/Falling_To_Landing.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Locomotion/Jump.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Locomotion/Locomotion.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Locomotion/Running.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Locomotion/Standing_Idle.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Locomotion/Two_Cycle_Sprint.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Locomotion/Walking.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/TH/IA74HIHF0DNRVXNTWT6DUD.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QO/307QXLI654VBGQIZVRO5IX.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/WA/F1M4DP2D9S5ZEGUCAK3NJ3.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Attack/Elbow_Uppercut_Combo.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Attack/Punching.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/Characters/Erika/Animations/Attack/Standing_Melee_Kick.uasset",
+				"C:/Users/Owen/Documents/Unreal Projects/ThirdPersonMovement/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset"
 			]
 		}
 	]
